@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hello%2C+Han-E+is+here!;I'm+a+software+engineer+with+2+YOE.;I'm+also+an+amateur+pianist.)](https://hanelliotn.github.io)
 
-[![Website][1]](https://hanelliotn.github.io)
-[![Email][2]](mailto:hanelliotn@gmail.com)
-[![LinkedIn][3]](https://linkedin.com/in/hanelliotn)
-[![Kaggle][4]](https://www.kaggle.com/hanelliotn)
-[![Leetcode][5]](https://leetcode.com/hanelliotn)
+[![Website][1]](https://hanelliotphan.com)
+[![Email][2]](mailto:hanelliotphan@gmail.com)
+[![LinkedIn][3]](https://linkedin.com/in/hanelliotphan)
+[![Kaggle][4]](https://www.kaggle.com/hanelliotphan)
+[![Leetcode][5]](https://leetcode.com/hanelliotphan)
 [![Discord][6]](https://discordapp.com/users/576632460339707925)
 
 
 I graduated from the [University of California, Davis](https://cs.ucdavis.edu/) 
 (B.S. Computer Science, class of 2021), and am currently an associate software 
 engineer at [Salesforce](https://www.salesforce.com/) working primarily on developer 
-experience that involves Github APIs, Amazon Web Services, Docker, Jenkins, Grafana and Bash scripting, 
-with Python and Java as main programming languages.
+experience that involves Renovate Bot configurations, Github APIs, Amazon Web Services, 
+Docker, Jenkins, Grafana and Bash scripting, with Python and Java as main programming languages.
 
 I would love to grow my skills in the field of data science and AI/ML. 
 For inquiries, please contact me via Gmail button above.
