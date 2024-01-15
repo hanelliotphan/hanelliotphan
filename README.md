@@ -12,6 +12,8 @@
 
 -->
 
+Hello, my name is Han-Elliot Phan :) 
+
 I graduated from the [University of California, Davis](https://cs.ucdavis.edu/) 
 (B.S. Computer Science, class of 2021), and am currently an associate software 
 engineer at [Salesforce](https://www.salesforce.com/) working primarily on developer 
