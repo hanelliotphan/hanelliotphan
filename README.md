@@ -15,10 +15,10 @@
 Hello, my name is Han-Elliot Phan :) 
 
 I graduated from the [University of California, Davis](https://cs.ucdavis.edu/) 
-(B.S. Computer Science, class of 2021), and am currently an associate software 
-engineer at [Salesforce](https://www.salesforce.com/) working primarily on developer 
-experience that involves Renovate Bot configurations, Github APIs, Amazon Web Services, 
-Docker, Jenkins, Grafana and Bash scripting, with Python and Java as main programming languages.
+(B.S. Computer Science, class of 2021), and am currently a software engineer (MTS) at 
+[Salesforce](https://www.salesforce.com/) working primarily on developer experience that 
+involves Renovate Bot configurations, Github APIs, Amazon Web Services, Docker, Jenkins, 
+Grafana and Bash scripting, with Python and Java as main programming languages.
 
 I would love to grow my skills in the field of data science and AI/ML. 
 For inquiries, please contact me via Gmail button above.
