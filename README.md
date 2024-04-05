@@ -12,7 +12,7 @@
 
 -->
 
-Hello, my name is Han-Elliot Phan :) 
+Hello, my name is Han-Elliot Phan, or Han-E for short :) 
 
 I graduated from the [University of California, Davis](https://cs.ucdavis.edu/) 
 (B.S. Computer Science, class of 2021), and am currently a software engineer (MTS) at 
