@@ -20,7 +20,7 @@ I graduated from the [University of California, Davis](https://cs.ucdavis.edu/)
 involves Renovate Bot configurations, Github APIs, Amazon Web Services, Docker, Jenkins, 
 Grafana and Bash scripting, with Python and Java as main programming languages.
 
-I would love to grow my skills in the field of data science and AI/ML. 
+I would love to grow my skills in the field of data analytics, security and cloud infrastructure. 
 For inquiries, please contact me via Gmail button above.
 
 <!--
