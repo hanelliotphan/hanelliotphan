@@ -5,11 +5,8 @@
 [![Email][2]](mailto:hanelliotphan@gmail.com)
 [![LinkedIn][3]](https://linkedin.com/in/hanelliotphan)
 
-<!-- 
 
-TODO: Input description here
-
--->
+For myself, for my mother, for all the loved ones that have imprinted in my heart.
 
 
 [1]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
